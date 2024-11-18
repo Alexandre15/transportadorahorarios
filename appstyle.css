@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+:root {
+/* Color Theme Swatches in Hex */
+	--azul1: #005CC7;
+	--azul2: #072B59;
+	--azul3: #0B438C;
+	--azul4: #1B62BF;
+	--azul5: #005AC0;
+}
+
+body {
+	background-color: #072B59;
+	font-family: Arial, sans-s;
+}
+
+div {
+	margin: 10px auto 10px auto;
+	background-color: white;
+	max-width: 98vw;
+	min-height: 92vh;
+	border-radius: 10px;
+}
+
+h1 {
+	display: inbox;
+	text-align: center;
+	padding: 20px;
+}
+
+footer {
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: auto;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+/* Color Theme Swatches in Hex 
+.azul-1-hex { color: #005CC7; }
+.azul-2-hex { color: #072B59; }
+.azul-3-hex { color: #0B438C; }
+.azul-4-hex { color: #1B62BF; }
+.azul-5-hex { color: #005AC0; }
+
+/* Color Theme Swatches in RGBA 
+.azul-1-rgba { color: rgba(0, 91, 198, 1); }
+.azul-2-rgba { color: rgba(7, 42, 89, 1); }
+.azul-3-rgba { color: rgba(11, 67, 140, 1); }
+.azul-4-rgba { color: rgba(26, 98, 191, 1); }
+.azul-5-rgba { color: rgba(0, 89, 191, 1); }
+
+/* Color Theme Swatches in HSLA 
+.azul-1-hsla { color: hsla(212, 100, 39, 1); }
+.azul-2-hsla { color: hsla(214, 85, 18, 1); }
+.azul-3-hsla { color: hsla(214, 85, 29, 1); }
+.azul-4-hsla { color: hsla(214, 75, 42, 1); }
+.azul-5-hsla { color: hsla(211, 100, 37, 1); }
+*/
