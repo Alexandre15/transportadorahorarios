@@ -16,16 +16,36 @@ body {
 
 div {
 	margin: 10px auto 10px auto;
+	padding-top: 5px;
 	background-color: white;
 	max-width: 98vw;
 	min-height: 92vh;
 	border-radius: 10px;
 }
 
-h1 {
-	display: inbox;
+fieldset {
+	margin: 20px;
+	border: 3px solid var(--azul2);
+}
+
+legend {
 	text-align: center;
-	padding: 20px;
+	border: 1px solid var(--azul3);
+	border-radius: 10px;
+	background-color: var(--azul2);
+	color: white;
+	padding: 5px;
+}
+
+section > p {
+	display: inline-block;
+	margin-right: auto;
+}
+
+section > h2 {
+	margin: 0px;
+	display: inline-block;
+	text-align: right;
 }
 
 footer {
